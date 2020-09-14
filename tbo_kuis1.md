@@ -9,7 +9,7 @@
 ---
 - Teori bahasa dan automata merupakan bagian
 ilmu komputer berupa model dam gagasan yang
-mendasari mengenasi komputasi.Automata
+mendasari mengenasi komputasi. Automata
 adalah mesin abstrak yang dapat mengenali
 (recognize), menerima (accept), atau
 membangkitkan (generate) sebuah kalimat
